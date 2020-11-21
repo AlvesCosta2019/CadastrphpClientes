@@ -1,0 +1,33 @@
+.formulario
+{
+  width: 300px;
+  background-color: darkblue;
+  margin: auto;
+  padding: 0px;
+  
+
+}
+#label_cor
+{
+   color: white;
+}
+.texto_cabecalho
+{
+  margin-top: -40px;
+  margin-left: 110px;
+
+}
+.texto_cabecalho1
+{
+  margin-top: -40px;
+  margin-left: 177px;
+
+}
+#img_cadastro
+{
+    width: 66px;
+    height: 60px;   
+    margin-left: 16px;
+    margin-top: 30px;
+   
+}
